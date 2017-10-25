@@ -1,3 +1,9 @@
+#### Name: [Jose Chavarria](https://github.com/josechavarriacr)
+ - Place: Cartago, Costa Rica
+ - Bio: System Information Engineer interested in 
+ Machine Learning, Big Data and Cloud Technologies
+ - GitHub: [josechavarriacr](https://github.com/josechavarriacr)
+ 
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
